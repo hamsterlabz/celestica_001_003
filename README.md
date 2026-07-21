@@ -2,6 +2,11 @@
 
 Reverse-engineering materials for the YPCB-00338-1P1 board.
 
+This is an English translation of the original (Chinese) repository
+[TiferKing/ypcb_00338_1p1_hack](https://github.com/TiferKing/ypcb_00338_1p1_hack).
+All credit for the reverse-engineering work goes to the original author,
+[TiferKing](https://www.tiferking.cn/).
+
 ## Contents
 
  - constraints: constraint files describing the pin functions.
@@ -17,6 +22,6 @@ Open Vivado and create a new project; you will then be able to select the "YPCB-
 
 ## More details
 
-For more details, see my blog:
+More details can be found on the original author's blog (in Chinese):
 
 https://www.tiferking.cn/index.php/2024/12/19/650/
